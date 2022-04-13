@@ -1,0 +1,3 @@
+﻿using Rythm;
+
+App.Run();
